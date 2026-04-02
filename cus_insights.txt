@@ -1,0 +1,5 @@
+Customers with shorter tenure are more likely to churn
+Higher monthly charges increase the probability of churn
+Customers with long-term contracts are less likely to leave
+The model can predict churn with good accuracy
+Businesses can reduce churn by targeting high-risk customers
