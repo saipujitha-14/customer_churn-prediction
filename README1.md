@@ -6,7 +6,7 @@ Customer churn is a critical problem for businesses, where customers stop using 
 ## 🎯 Objective
 To build a machine learning model that can identify customers who are likely to leave the service, helping businesses take proactive actions to improve customer retention.
 
----
+----
 
 ## 🧰 Tools & Technologies Used
 - Python
